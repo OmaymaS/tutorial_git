@@ -4,4 +4,5 @@
 
 ## Contributors 
 Abel Fernandez
+Veronica Gonzalez Solano
 ## Notes
