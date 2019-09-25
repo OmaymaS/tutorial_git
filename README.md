@@ -4,7 +4,9 @@
 
 ## Contributors 
 
-Abel Fernandez
+- Abel Fernandez
+- Srinivas
+- Veronica
 
 ## Notes
 
