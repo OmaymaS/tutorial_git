@@ -13,8 +13,8 @@
 - save the changes locally.
 - run `git status` and check the output.
 - add `README.md` to staging using `git add  [file name]`.
-- commit the changes using `git commit .....`.
-- push the changes to remote `git push origin master`.
+- commit the changes using `git commit -m "your message"`.
+- push the changes to remote `git push origin [your branch name]`.
 
 ## 3
 
@@ -24,10 +24,8 @@
 - save the script as `analysis_[your_name].R` or `analysis_[your_name].py`.
 - run `git status` and check the output.
 - add the new script file to staging.
-- commit the changes.
+- commit the changes using  `git commit -m "your message"`
 - push the changes to the new branch using `git push origin [branch_yourname]`.
-
-## 4 
 
 
 
