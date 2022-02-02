@@ -14,7 +14,7 @@
 - run `git status` and check the output.
 - add `README.md` to staging using `git add  [file name]`.
 - commit the changes using `git commit -m "your message"`.
-- push the changes to remote `git push origin [your branch name]`.
+- push the changes to remote `git push origin tutorial_branch`.
 
 ## 3
 
