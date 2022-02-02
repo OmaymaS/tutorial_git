@@ -8,7 +8,8 @@
 - Srinivas
 - Veronica
 - QPan
-- Amira
+- Amira B
+- Jenna
 
 ## Notes
 
